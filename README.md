@@ -3,7 +3,7 @@
 ## Hi, I am Baqar Abbas <br>
 ## Bachelors of Science in Computer Science - BSCS / Masters - MSCS (1 Year)<br>
 I have 11 years of experience in Information Technology (I.T) and Communication along with 17 years of education.<br>
-Karachi,Pakistan.
+Karachi,  Pakistan.
 
 ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br>
 🌱 I'm currently learning Full-Stack Development at Microverse<br>👯 I'm looking to collaborate on UI/UX design and Full-Stack Development<br>🤔  I like Solving complex problems, creating new things, running, and love music. <br>🤩  I'm exploring different opportunities in Full-Stack Development<br>💬 Ask me about: Front and Backend Development including: JavaScript | Redux | CSS | Bootstrap | HTML | React | Ruby | Rails | ROR <br>⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines<br>
