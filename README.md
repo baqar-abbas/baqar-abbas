@@ -47,6 +47,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=plastic&logo=rest&logoColor=white)
 
 **Tools & Workflows:**  
@@ -55,6 +56,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=plastic&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%230A0A0A.svg?style=plastic&logo=agile&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-%23CC0000.svg?style=plastic&logo=jest&logoColor=white)
 
