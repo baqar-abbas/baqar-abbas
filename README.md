@@ -41,6 +41,7 @@
 **Backend:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
